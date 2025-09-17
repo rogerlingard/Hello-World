@@ -4,7 +4,7 @@ The software is writing a simple welcome message to the name that you type, and 
 
 This is a starting place, where we learn the basics. This is helpful for me to get a refresher on writing code.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Hello World Program Video](https://youtu.be/8Ecdh2d3zeE)
 
 # Development Environment
 
